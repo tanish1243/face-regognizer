@@ -46,9 +46,13 @@ body {
     border:2px dashed yellow;  
     padding:0.03em 0.25em;
   }
-  #webcam{
+  #webcamanddiv{
       float: right;
       text-align: center;
       align-items: center;
-      margin-right: 50px;
+      
+  }
+  #webcam{
+   border-style: ridge;  
+   border-width: 6px; 
   }
