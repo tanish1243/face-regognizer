@@ -55,4 +55,5 @@ body {
   #webcam{
    border-style: ridge;  
    border-width: 6px; 
+   width: 350px;
   }
