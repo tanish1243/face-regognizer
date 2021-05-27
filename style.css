@@ -33,13 +33,14 @@ body {
 }
 #nameofstuff{
     margin-top: 50px;
-    margin-right: 400px;
+   
     font-size: large;
 }
 #webcamtext{
     font-size: large;
-    margin-left: 20-px;
-    float: right;
+   margin-left: 800px;
+   
+    
  
 }
 .border-highlight{
@@ -56,4 +57,7 @@ body {
    border-style: ridge;  
    border-width: 6px; 
    width: 350px;
+  }
+  #captured_view{
+      font-size: large;
   }
